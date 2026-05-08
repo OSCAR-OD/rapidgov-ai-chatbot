@@ -1,4 +1,4 @@
-# RapidGov AI Chatbot
+# AI Chatbot Assistant
 
 AI-powered government assistance chatbot for Mozambique.
 
